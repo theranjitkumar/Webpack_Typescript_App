@@ -2,4 +2,5 @@
 
 ## npm install
 ## npm start
-## opne brouser console
+## opne browser on http://localhost:8080/
+## open browser console
