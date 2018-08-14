@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es5",
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "experimentalDecorators": true,
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+}
